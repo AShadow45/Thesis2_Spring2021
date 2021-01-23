@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637466908536530147
-    m_Hash: 4004326711
+      ticks: 637470234158529334
+    m_Hash: 2532074112
   m_LockFileStatus:
     m_FilePath: C:/Users/anali/Documents/GitHub/Thesis2_Spring2021/Thesis_Project_2021/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637466933782756598
-    m_Hash: 157013556
+      ticks: 637470234164135725
+    m_Hash: 1318203492
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -721,9 +721,9 @@ m_PackageAssets:
         version: 1.1.1
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.19
+        version: 1.1.22
       - name: com.unity.ext.nunit
-        version: 1.0.5
+        version: 1.0.6
       - name: com.unity.modules.imgui
         version: 1.0.0
       - name: com.unity.modules.jsonserialize
@@ -887,12 +887,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
         revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
         path: 
-    - packageId: com.unity.test-framework@1.1.19
+    - packageId: com.unity.test-framework@1.1.22
       testable: 0
       isDirectDependency: 1
-      version: 1.1.19
+      version: 1.1.22
       source: 1
-      resolvedPath: C:\Users\anali\Documents\GitHub\Thesis2_Spring2021\Thesis_Project_2021\Library\PackageCache\com.unity.test-framework@1.1.19
+      resolvedPath: C:\Users\anali\Documents\GitHub\Thesis2_Spring2021\Thesis_Project_2021\Library\PackageCache\com.unity.test-framework@1.1.22
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -933,20 +933,22 @@ m_PackageAssets:
         - 1.1.18
         - 1.1.19
         - 1.1.20
+        - 1.1.22
         compatible:
         - 1.1.19
         - 1.1.20
-        verified: 1.1.20
+        - 1.1.22
+        verified: 1.1.22
       dependencies:
       - name: com.unity.ext.nunit
-        version: 1.0.5
+        version: 1.0.6
       - name: com.unity.modules.imgui
         version: 1.0.0
       - name: com.unity.modules.jsonserialize
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.ext.nunit
-        version: 1.0.5
+        version: 1.0.6
       - name: com.unity.modules.imgui
         version: 1.0.0
       - name: com.unity.modules.jsonserialize
@@ -966,20 +968,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637413148910000000
+      datePublishedTicks: 637469345300000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-        revision: 83583c7273ee961612200215e8989039bbce8748
+        revision: 56c667cbc326a1cbab8dfd7ebc693a1121d0abe1
         path: 
-    - packageId: com.unity.textmeshpro@3.0.1
+    - packageId: com.unity.textmeshpro@3.0.3
       testable: 0
       isDirectDependency: 1
-      version: 3.0.1
+      version: 3.0.3
       source: 1
-      resolvedPath: C:\Users\anali\Documents\GitHub\Thesis2_Spring2021\Thesis_Project_2021\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: C:\Users\anali\Documents\GitHub\Thesis2_Spring2021\Thesis_Project_2021\Library\PackageCache\com.unity.textmeshpro@3.0.3
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1113,20 +1115,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637314376320000000
+      datePublishedTicks: 637394911680000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
-        revision: 1604b62e543216408311bcd1355a7a9ca1e65765
+        revision: 648406226df6c4f28a0f64eaab42ddc3db70c475
         path: 
-    - packageId: com.unity.timeline@1.4.4
+    - packageId: com.unity.timeline@1.4.6
       testable: 0
       isDirectDependency: 1
-      version: 1.4.4
+      version: 1.4.6
       source: 1
-      resolvedPath: C:\Users\anali\Documents\GitHub\Thesis2_Spring2021\Thesis_Project_2021\Library\PackageCache\com.unity.timeline@1.4.4
+      resolvedPath: C:\Users\anali\Documents\GitHub\Thesis2_Spring2021\Thesis_Project_2021\Library\PackageCache\com.unity.timeline@1.4.6
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1284,13 +1286,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637389011320000000
+      datePublishedTicks: 637463150940000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-        revision: ebd6c3e005f9c4dc8bea51f72609192d29bd29d3
+        revision: 2fe55e5d14362cc4fdcc886f56dbfe518298e4a5
         path: 
     - packageId: com.unity.ugui@1.0.0
       testable: 0
@@ -3097,12 +3099,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.ext.nunit@1.0.5
+    - packageId: com.unity.ext.nunit@1.0.6
       testable: 0
       isDirectDependency: 0
-      version: 1.0.5
+      version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\anali\Documents\GitHub\Thesis2_Spring2021\Thesis_Project_2021\Library\PackageCache\com.unity.ext.nunit@1.0.5
+      resolvedPath: C:\Users\anali\Documents\GitHub\Thesis2_Spring2021\Thesis_Project_2021\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3118,10 +3120,20 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 0.1.5-preview
+        - 0.1.6-preview
+        - 0.1.9-preview
+        - 1.0.0
         - 1.0.5
+        - 1.0.6
         compatible:
+        - 0.1.5-preview
+        - 0.1.6-preview
+        - 0.1.9-preview
+        - 1.0.0
         - 1.0.5
-        verified: 1.0.5
+        - 1.0.6
+        verified: 1.0.6
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3140,13 +3152,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637429759280000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
-        revision: 1b3e542964a65210e966f5bf8751f62b1dcd8d69
+        revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
         path: 
     - packageId: com.unity.mathematics@1.1.0
       testable: 0
@@ -3169,9 +3181,33 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 0.0.12-preview.2
+        - 0.0.12-preview.5
+        - 0.0.12-preview.8
+        - 0.0.12-preview.10
+        - 0.0.12-preview.11
+        - 0.0.12-preview.13
+        - 0.0.12-preview.17
+        - 0.0.12-preview.19
+        - 0.0.12-preview.20
+        - 1.0.0-preview.1
+        - 1.0.1
+        - 1.1.0-preview.1
         - 1.1.0
         - 1.2.1
         compatible:
+        - 0.0.12-preview.2
+        - 0.0.12-preview.5
+        - 0.0.12-preview.8
+        - 0.0.12-preview.10
+        - 0.0.12-preview.11
+        - 0.0.12-preview.13
+        - 0.0.12-preview.17
+        - 0.0.12-preview.19
+        - 0.0.12-preview.20
+        - 1.0.0-preview.1
+        - 1.0.1
+        - 1.1.0-preview.1
         - 1.1.0
         - 1.2.1
         verified: 1.2.1
@@ -3191,7 +3227,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 636984649280000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3220,8 +3256,23 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 1.0.9-preview.1
+        - 1.0.9-preview.2
+        - 1.0.10-preview
+        - 1.0.11-preview.1
+        - 1.1.0-preview.1
+        - 1.1.0-preview.2
+        - 1.2.0-preview.1
+        - 2.0.1
+        - 2.0.2
+        - 2.1.0
+        - 3.0.0
+        - 3.0.1
+        - 4.0.0
+        - 4.0.1
         - 4.0.2
         - 4.0.3
+        - 5.0.0-pre.1
         compatible:
         - 4.0.2
         - 4.0.3
@@ -3258,7 +3309,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637408843940000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3287,7 +3338,21 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 1.0.0-preview.1
+        - 1.0.0-preview.4
+        - 2.0.1
+        - 2.0.2
+        - 2.0.3
+        - 2.0.4
+        - 2.0.5
+        - 2.0.6
+        - 2.1.0
+        - 3.0.0
+        - 3.0.1
+        - 3.0.2
+        - 4.0.0
         - 4.0.1
+        - 5.0.0-pre.1
         compatible:
         - 4.0.1
         verified: 4.0.1
@@ -3308,7 +3373,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637328350450000000
       documentationUrl: 
       hasRepository: 1
       repository:
