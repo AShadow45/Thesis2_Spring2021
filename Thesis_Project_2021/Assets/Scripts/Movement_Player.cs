@@ -7,8 +7,6 @@ public class Movement_Player : MonoBehaviour
     public float speed = 5f;
     Rigidbody2D rb;
 
-    r
-
     void Start()
     {
        rb = GetComponent<Rigidbody2D>();
@@ -16,7 +14,7 @@ public class Movement_Player : MonoBehaviour
 
     void Update()
     {
-        
+         
     }
 
     void FixedUpdate()
@@ -24,7 +22,7 @@ public class Movement_Player : MonoBehaviour
         // KEYBOARD CONTROLS
 
         float xSpeed = Input.GetAxis("Horizontal") * speed;
-        float ySpeed = Input.GetAxis("Vertical") * speed;
+        float ySpeed = Input.GetAxis("Vertical") * speed; 
         rb.velocity = new Vector2(xSpeed, ySpeed);
     }
 }
